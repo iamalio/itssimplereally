@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Apples Bananas</a>
+      <a class="navbar-brand" href="#">Moonstrike Studio</a>
       <button
         class="navbar-toggler"
         type="button"
@@ -33,11 +33,8 @@ export default {
 <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,700;1,300&display=swap');
 
-.navbar-brand {
+.navbar-light .navbar-brand {
   font-family: 'Open Sans', sans-serif;
   color: #5E047A;
-}
-.brand-modifier{
-    
-}
-</style>
+  font-weight: 500;
+}</style>
