@@ -14,7 +14,7 @@
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-        <div class="navbar-nav">
+        <div class="navbar-nav ">
           <a class="nav-link active" aria-current="page" href="#">Here</a>
           <a class="nav-link" href="#">Somewhere</a>
           <a class="nav-link" href="#">Everywhere</a>
@@ -31,5 +31,13 @@ export default {
 </script>
 
 <style scoped>
-@import '@/assets/navs.scss';
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,700;1,300&display=swap');
+
+.navbar-brand {
+  font-family: 'Open Sans', sans-serif;
+  color: #5E047A;
+}
+.brand-modifier{
+    
+}
 </style>
