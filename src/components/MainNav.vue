@@ -30,4 +30,6 @@ export default {
 };
 </script>
 
-<style scoped></style>
+<style scoped>
+@import "../assets/_landingpage.scss";
+</style>
