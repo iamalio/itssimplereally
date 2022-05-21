@@ -31,5 +31,5 @@ export default {
 </script>
 
 <style scoped>
-@import "../assets/_landingpage.scss";
+@import '@/assets/_landingpage.scss';
 </style>
