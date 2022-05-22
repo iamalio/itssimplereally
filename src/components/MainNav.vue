@@ -33,7 +33,7 @@ export default {
 <style scoped>
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,500;0,700;1,300&display=swap');
 nav .container-fluid {
-  background-color: #5e047a5b;
+  background-color: rgba(96, 4, 124, 0.178);
 }
 .navbar-light .navbar-brand {
   font-family: 'Open Sans', sans-serif;
