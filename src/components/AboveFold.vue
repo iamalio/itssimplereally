@@ -18,6 +18,8 @@ export default {
 
 <style scoped>
 .abovefold{
-  background-image: url('https://github.com/iamalio/itssimplereally/blob/master/src/assets/rocketBG.png')
+  background-image: url('https://github.com/iamalio/itssimplereally/blob/master/src/assets/rocketBG.png');
+  height: 100vh;
+
 }
 </style>
